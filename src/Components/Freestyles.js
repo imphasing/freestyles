@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const freestyles = [
+var freestyles = [
     {
         "title": "BUGSY slick talks on Bars On I-95",
         "url": "https://www.youtube.com/watch?v=BQpT4te9NtE",
@@ -1016,7 +1016,13 @@ const freestyles = [
         "url": "https://www.youtube.com/watch?v=dY4of0kNZYM",
         rating: 7.5
     }
-];
+].reverse();
+
+var sortedFreestyles = freestyles.concat().sort(function (a, b) {
+    return b.rating - a.rating;
+});
+
+var view = freestyles;
 
 class Freestyles extends Component {
     constructor(props) {
@@ -1046,7 +1052,7 @@ class Freestyles extends Component {
             return big.toLowerCase().indexOf(little.toLowerCase());
         };
 
-        return freestyles.reverse().map(freestyle => {
+        return view.map(freestyle => {
             if (caseInsensitiveIndexOf(freestyle.title, term) >= 0) {
                 if (freestyle.rating !== undefined) {
                     const rating = "rating " + this.getRating(freestyle.rating);
@@ -1074,14 +1080,21 @@ class Freestyles extends Component {
         this.setState({term: value});
     }
 
-    render() {
-        const sorted = freestyles.sort(function (a, b) {
-			return b.highlight - a.highlight;
-        });
-        
+    sort = (event) => {
+        view = sortedFreestyles;
+        this.forceUpdate();
+    }
+
+    cancel = (event) => {
+        view = freestyles;
+        this.forceUpdate();
+    }
+
+    render() {        
         return (
             <div>
-                <input type="text" placeholder="Search" onChange={this.filterList} /><br /><br />
+                <input type="text" placeholder="Search" onChange={this.filterList} /><br />
+                <a href="#" onClick={this.sort}>Sort by rating</a> | <a href="#" onClick={this.cancel}>Sort by date</a><br /><br />
                 {this.makeLinks(this.state.term)}
             </div>
         );

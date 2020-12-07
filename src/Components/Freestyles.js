@@ -1015,6 +1015,21 @@ var freestyles = [
         "title": "070 Phi Bars On I-95 Freestyle pt 2",
         "url": "https://www.youtube.com/watch?v=dY4of0kNZYM",
         rating: 7.5
+    },
+    {
+        "title": "Knocka Quarantine Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=qnekyl6QkLU",
+        rating: 8.5
+    },
+    {
+        "title": "Neelam Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=aDWktWu7VL8",
+        rating: 9
+    },
+    {
+        "title": "Jag Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=0irCm0ez-OU",
+        rating: 7.5
     }
 ].reverse();
 

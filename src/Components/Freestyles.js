@@ -264,7 +264,7 @@ const freestyles = [
     {
         "title": "K Price Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=_w-63glovds",
-        rating: 8
+        rating: 9
     },
     {
         "title": "King Card and Rayquan Da Don \"Verse for Verse\" on Bars on I-95",
@@ -1004,12 +1004,12 @@ const freestyles = [
     {
         "title": "Anoyd | Block Work | FunkFlexBlockWork0009",
         "url": "https://www.youtube.com/watch?v=6unPEXcA4p0",
-        rating: 8.5
+        rating: 8
     },
     {
         "title": "KP Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=oXdN50frBhs",
-        rating: 8.5
+        rating: 9
     },
     {
         "title": "070 Phi Bars On I-95 Freestyle pt 2",

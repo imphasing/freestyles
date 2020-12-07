@@ -44,6 +44,27 @@
   white-space: nowrap;
 }
 
-.highlight {
-  background-color: rgb(240, 240, 240);
+.rating {
+  display: inline;
 }
+
+.damn {
+  background-color: rgb(255, 0, 0);
+}
+
+.fire {
+  background-color: rgb(255, 112, 112);
+}
+
+.lit {
+  background-color: rgb(255, 115, 0);
+}
+
+.good {
+  background-color: rgb(255, 187, 0);
+}
+
+.alright {
+  background-color: rgb(255, 230, 0);
+}
+

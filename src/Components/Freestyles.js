@@ -1075,13 +1075,13 @@ class Freestyles extends Component {
                     return (<p>
                         <div class={rating}>
                             {freestyle.rating}
-                        </div> - <a href={freestyle.url}>
+                        </div> - <a href={freestyle.url} target="_blank">
                             {freestyle.title}
                         </a>
                     </p>);
                 } else {
                     return (<p>
-                        <a href={freestyle.url}>
+                        <a href={freestyle.url} target="_blank">
                             {freestyle.title}
                         </a>
                     </p>);

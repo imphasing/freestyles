@@ -834,7 +834,7 @@ var freestyles = [
     {
         "title": "WE$TSIDE PARLÉ Freestyle With The L.A. Leakers - Freestyle #032",
         "url": "https://www.youtube.com/watch?v=0qA-TcOPDD8",
-        rating: 8.5
+        rating: 8
     },
     {
         "title": "Lil Flip Freestyle With The L.A. Leakers | #Freestyle029",
@@ -1030,7 +1030,13 @@ var freestyles = [
         "title": "Jag Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=0irCm0ez-OU",
         rating: 7.5
+    },
+    {
+        "title": "Casey J Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=_2oQwRLLMI4",
+        rating: 7.5
     }
+    
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

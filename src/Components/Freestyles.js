@@ -1035,6 +1035,16 @@ var freestyles = [
         "title": "Casey J Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=_2oQwRLLMI4",
         rating: 7.5
+    },
+    {
+        "title": "Casey J Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=_2oQwRLLMI4",
+        rating: 7.5
+    },
+    {
+        "title": "North Carolina's SHAME is a LYRICIST You Should Know! | #HighOffLife​ Freestyle 054",
+        "url": "https://www.youtube.com/watch?v=60v09RllFyA",
+        rating: 8.5
     }
     
 ].reverse();

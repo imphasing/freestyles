@@ -974,7 +974,7 @@ var freestyles = [
     {
         "title": "Millyz Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=FZoNu30pVOI",
-        rating: 7.5
+        rating: 8.5
     },
     {
         "title": "J Nolan LYRICAL EXERCISE on BUSTA RHYMES Beat | #HighOffLife Freestyle 009",

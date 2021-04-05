@@ -1045,6 +1045,11 @@ var freestyles = [
         "title": "North Carolina's SHAME is a LYRICIST You Should Know! | #HighOffLife​ Freestyle 054",
         "url": "https://www.youtube.com/watch?v=60v09RllFyA",
         rating: 8.5
+    },
+    {
+        "title": "Millyz Freestyle on Showoff Radio/ Shade 45 with Statik Selektah 06.13.19",
+        "url": "https://www.youtube.com/watch?v=XiqOgvbEsW4",
+        rating: 9
     }
     
 ].reverse();

@@ -974,7 +974,7 @@ var freestyles = [
     {
         "title": "Millyz Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=FZoNu30pVOI",
-        rating: 8.5
+        rating: 9
     },
     {
         "title": "J Nolan LYRICAL EXERCISE on BUSTA RHYMES Beat | #HighOffLife Freestyle 009",
@@ -1049,7 +1049,7 @@ var freestyles = [
     {
         "title": "Millyz Freestyle on Showoff Radio/ Shade 45 with Statik Selektah 06.13.19",
         "url": "https://www.youtube.com/watch?v=XiqOgvbEsW4",
-        rating: 9
+        rating: 8
     }
     
 ].reverse();

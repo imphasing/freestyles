@@ -1050,8 +1050,12 @@ var freestyles = [
         "title": "Millyz Freestyle on Showoff Radio/ Shade 45 with Statik Selektah 06.13.19",
         "url": "https://www.youtube.com/watch?v=XiqOgvbEsW4",
         rating: 8
-    }
-    
+    },
+    {
+        "title": "Ell Ex Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=_uBfGo7PGU0",
+        rating: 9
+    }    
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

@@ -1055,7 +1055,12 @@ var freestyles = [
         "title": "Ell Ex Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=_uBfGo7PGU0",
         rating: 9
-    }    
+    },
+    {
+        "title": "Deante Hitchcock Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=Pn0-gSzWELc",
+        rating: 8.5
+    }
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

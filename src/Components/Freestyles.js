@@ -1075,6 +1075,16 @@ var freestyles = [
         "title": "FUNK FLEX | DJ DRAMA | JACK HARLOW | #Freestyle148​​",
         "url": "https://www.youtube.com/watch?v=BuDV7VNSDSA",
         rating: 8.0
+    },
+    {
+        "title": "Akbar V Bars On I-95 Freestyle​​",
+        "url": "https://www.youtube.com/watch?v=3umUoaJvmDc",
+        rating: 8.5
+    },
+    {
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=7P5TWA_es2A",
+        rating: 8.5
     }
 ].reverse();
 

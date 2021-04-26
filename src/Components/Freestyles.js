@@ -1070,6 +1070,11 @@ var freestyles = [
         "title": "LGP QUA | FUNK FLEX | #Freestyle151​",
         "url": "https://www.youtube.com/watch?v=vJLVvIZXd_g",
         rating: 8.0
+    },
+    {
+        "title": "FUNK FLEX | DJ DRAMA | JACK HARLOW | #Freestyle148​​",
+        "url": "https://www.youtube.com/watch?v=BuDV7VNSDSA",
+        rating: 8.0
     }
 ].reverse();
 

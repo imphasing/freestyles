@@ -1082,7 +1082,7 @@ var freestyles = [
         rating: 8.5
     },
     {
-        "title": "",
+        "title": "RJ Payne Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=7P5TWA_es2A",
         rating: 8.5
     }

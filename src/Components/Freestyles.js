@@ -1065,6 +1065,11 @@ var freestyles = [
         "title": "Dipset Freestyle",
         "url": "https://www.youtube.com/watch?v=DGfIBSCYWgA",
         rating: 9.0
+    },
+    {
+        "title": "LGP QUA | FUNK FLEX | #Freestyle151​",
+        "url": "https://www.youtube.com/watch?v=vJLVvIZXd_g",
+        rating: 8.0
     }
 ].reverse();
 

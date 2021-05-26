@@ -1085,6 +1085,11 @@ var freestyles = [
         "title": "RJ Payne Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=7P5TWA_es2A",
         rating: 8.5
+    },
+    {
+        "title": "Raina Simone Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=NCE6BI5KwdM",
+        rating: 8.5
     }
 ].reverse();
 

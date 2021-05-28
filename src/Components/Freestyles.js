@@ -1090,6 +1090,11 @@ var freestyles = [
         "title": "Raina Simone Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=NCE6BI5KwdM",
         rating: 8.5
+    },
+    {
+        "title": "Joey Bada$$ Impressed By YouTube Rapper Harry Mack's Freestyle",
+        "url": "https://www.youtube.com/watch?v=-YKaNXIyfD4",
+        rating: 8.5
     }
 ].reverse();
 

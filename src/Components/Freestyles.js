@@ -1095,6 +1095,16 @@ var freestyles = [
         "title": "Joey Bada$$ Impressed By YouTube Rapper Harry Mack's Freestyle",
         "url": "https://www.youtube.com/watch?v=-YKaNXIyfD4",
         rating: 8.5
+    },
+    {
+        "title": "Bri Steves Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=d3SWhAjqoD8",
+        rating: 8
+    },
+    {
+        "title": "7xveTheGenius Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=27J6hjmxRi4",
+        rating: 8.5
     }
 ].reverse();
 

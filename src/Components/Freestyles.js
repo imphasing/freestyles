@@ -1105,6 +1105,11 @@ var freestyles = [
         "title": "7xveTheGenius Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=27J6hjmxRi4",
         rating: 8.5
+    },
+    {
+        "title": "MAZON Proves You Can Have BARS + Be An Entrepreneur! | #HighOffLife Freestyle 076",
+        "url": "https://www.youtube.com/watch?v=turBYYH6esk",
+        rating: 8.5
     }
 ].reverse();
 

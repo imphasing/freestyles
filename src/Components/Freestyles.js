@@ -1110,6 +1110,11 @@ var freestyles = [
         "title": "MAZON Proves You Can Have BARS + Be An Entrepreneur! | #HighOffLife Freestyle 076",
         "url": "https://www.youtube.com/watch?v=turBYYH6esk",
         rating: 8.5
+    },
+    {
+        "title": "100 KUFIS is the Hungriest Rapper ALIVE! | #HighOffLife Freestyle 074",
+        "url": "https://www.youtube.com/watch?v=XEcwz4NeZlg",
+        rating: 8
     }
 ].reverse();
 

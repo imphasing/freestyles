@@ -1115,7 +1115,13 @@ var freestyles = [
         "title": "100 KUFIS is the Hungriest Rapper ALIVE! | #HighOffLife Freestyle 074",
         "url": "https://www.youtube.com/watch?v=XEcwz4NeZlg",
         rating: 8
+    },
+    {
+        "title": "Cheeno Ghee Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=4H-fWVIiY14",
+        rating: 8
     }
+    
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

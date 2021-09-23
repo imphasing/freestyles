@@ -1120,7 +1120,12 @@ var freestyles = [
         "title": "Cheeno Ghee Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=4H-fWVIiY14",
         rating: 8
-    }
+    },
+    {
+        "title": "Marlon Craft Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=AKu_ZrkRR9c",
+        rating: 8
+    },
     
 ].reverse();
 

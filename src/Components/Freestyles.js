@@ -1130,6 +1130,11 @@ var freestyles = [
         "title": "OhDatsRIDA Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=iomxhG7mEoY",
         rating: 8.5
+    },
+    {
+        "title": "Papoose Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=msM1IXXyjvo",
+        rating: 8.5
     }
 ].reverse();
 

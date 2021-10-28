@@ -1135,7 +1135,13 @@ var freestyles = [
         "title": "Papoose Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=msM1IXXyjvo",
         rating: 8.5
-    }
+    },
+    {
+        "title": "Dame D.O.L.L.A. Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=f7y00o9Nedw",
+        rating: 9
+    },
+    
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

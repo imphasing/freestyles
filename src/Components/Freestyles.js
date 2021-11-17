@@ -1141,6 +1141,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=f7y00o9Nedw",
         rating: 9
     },
+    {
+        "title": "Eazy The Block Captain Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=mSWfDYokhC8",
+        rating: 9
+    },
     
 ].reverse();
 

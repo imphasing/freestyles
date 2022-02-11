@@ -1156,7 +1156,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=jwKmv2zMJ7Q",
         rating: 8.5
     },
-    
+    {
+        "title": "Shoota 93 Bars On I-95 Freestyle pt 2",
+        "url": "https://www.youtube.com/watch?v=QckXuZqAZCE",
+        rating: 9
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

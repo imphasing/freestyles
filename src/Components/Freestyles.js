@@ -1151,6 +1151,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=SKueuAeyMGE",
         rating: 8
     },
+    {
+        "title": "Tay Roc Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=jwKmv2zMJ7Q",
+        rating: 8.5
+    },
     
 ].reverse();
 

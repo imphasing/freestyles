@@ -1166,6 +1166,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=OiJeKrICaLc",
         rating: 8
     },
+    {
+        "title": "DaBaby Completely Spazzes Over Gunna's "Pushin P" With 2-Piece L.A. Leakers Freestyle",
+        "url": "https://www.youtube.com/watch?v=kOL896OaqOE",
+        rating: 8
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

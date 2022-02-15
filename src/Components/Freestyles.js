@@ -1161,6 +1161,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=QckXuZqAZCE",
         rating: 9
     },
+    {
+        "title": "Cam'ron | Funk Flex | #Freestyle171",
+        "url": "https://www.youtube.com/watch?v=OiJeKrICaLc",
+        rating: 8
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

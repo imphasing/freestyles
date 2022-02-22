@@ -1171,6 +1171,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=kOL896OaqOE",
         rating: 8
     },
+    {
+        "title": "Conway The Machine Rips Through Pusha T's "Diet Coke" Instrumental In L.A. Leakers Freestyle 134",
+        "url": "https://www.youtube.com/watch?v=LXWAojZOJ6Y",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

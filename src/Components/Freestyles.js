@@ -1167,12 +1167,12 @@ var freestyles = [
         rating: 8
     },
     {
-        "title": "DaBaby Completely Spazzes Over Gunna's "Pushin P" With 2-Piece L.A. Leakers Freestyle",
+        "title": "DaBaby Completely Spazzes Over Gunna's Pushin P With 2-Piece L.A. Leakers Freestyle",
         "url": "https://www.youtube.com/watch?v=kOL896OaqOE",
         rating: 8
     },
     {
-        "title": "Conway The Machine Rips Through Pusha T's "Diet Coke" Instrumental In L.A. Leakers Freestyle 134",
+        "title": "Conway The Machine Rips Through Pusha T's Diet Coke Instrumental In L.A. Leakers Freestyle 134",
         "url": "https://www.youtube.com/watch?v=LXWAojZOJ6Y",
         rating: 8.5
     },

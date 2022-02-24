@@ -1185,7 +1185,12 @@ var freestyles = [
         "title": "Big Sean Spits Over Drake's "Love All" & Kanye's "Hurricane" In Nearly 9-Min. L.A. Leakers Freestyle",
         "url": "https://www.youtube.com/watch?v=XtEYuNIxH2o",
         rating: 9
-    },    
+    },
+    {
+        "title": "The Hoodies | Funk Flex | #Freestyle169",
+        "url": "https://www.youtube.com/watch?v=JjHPkk5RUeE",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

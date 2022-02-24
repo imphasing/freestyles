@@ -1176,6 +1176,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=LXWAojZOJ6Y",
         rating: 8.5
     },
+    {
+        "title": "D Smoke Effortlessly Spits Bars Over J. Cole's "Let Go My Hand" Beat - L.A. Leakers Freestyle #121",
+        "url": "https://www.youtube.com/watch?v=S0H4jaT4eFI",
+        rating: 8
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

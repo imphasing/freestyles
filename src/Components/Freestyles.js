@@ -1204,7 +1204,7 @@ var freestyles = [
     {
         "title": "Jadakiss Freestyles Over Nate Dogg’s I Got Love W/ The L.A. Leakers - Freestyle #101",
         "url": "https://www.youtube.com/watch?v=LgXaoyNcSvA",
-        rating: 8
+        rating: 8.5
     },
     {
         "title": "Nana Bars On I-95 Freestyle",

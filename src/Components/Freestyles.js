@@ -1191,6 +1191,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=JjHPkk5RUeE",
         rating: 8.5
     },
+    {
+        "title": "LaRussell Freestyles On The Breakfast Club",
+        "url": "https://www.youtube.com/watch?v=ohbFe8JsAh0",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

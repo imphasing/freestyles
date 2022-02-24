@@ -1177,12 +1177,12 @@ var freestyles = [
         rating: 8.5
     },
     {
-        "title": "D Smoke Effortlessly Spits Bars Over J. Cole's "Let Go My Hand" Beat - L.A. Leakers Freestyle #121",
+        "title": "D Smoke Effortlessly Spits Bars Over J. Cole's Let Go My Hand Beat - L.A. Leakers Freestyle #121",
         "url": "https://www.youtube.com/watch?v=S0H4jaT4eFI",
         rating: 8
     },
     {
-        "title": "Big Sean Spits Over Drake's "Love All" & Kanye's "Hurricane" In Nearly 9-Min. L.A. Leakers Freestyle",
+        "title": "Big Sean Spits Over Drake's Love All & Kanye's Hurricane In Nearly 9-Min. L.A. Leakers Freestyle",
         "url": "https://www.youtube.com/watch?v=XtEYuNIxH2o",
         rating: 9
     },

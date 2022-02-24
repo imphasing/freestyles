@@ -1196,6 +1196,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=ohbFe8JsAh0",
         rating: 8.5
     },
+    {
+        "title": "Russ Effortlessly Drops Bars Over OutKast's Aquemini Instrumental In L.A. Leakers Freestyle 125",
+        "url": "https://www.youtube.com/watch?v=OyM4HGHsSUQ",
+        rating: 8
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

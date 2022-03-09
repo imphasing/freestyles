@@ -1221,6 +1221,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=FPrbL7PjBa4",
         rating: 8
     },
+    {
+        "title": "Bones Brigante Freestyle | OVERTIME | SWAY'S UNIVERSE",
+        "url": "https://www.youtube.com/watch?v=X7sUPDQhW-k",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

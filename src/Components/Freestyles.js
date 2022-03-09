@@ -1231,6 +1231,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=CPeJCaJfXyA",
         rating: 8.5
     },
+    {
+        "title": "Mickey Factz Freestyle | OVERTIME | SWAY’S UNIVERSE",
+        "url": "https://www.youtube.com/watch?v=fjH6koBoqms",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

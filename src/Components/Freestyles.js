@@ -1214,7 +1214,7 @@ var freestyles = [
     {
         "title": "ANoyd Freestyle | OVERTIME | SWAY'S UNIVERSE",
         "url": "https://www.youtube.com/watch?v=M3oMnkztEqI",
-        rating: 8
+        rating: 8.5
     },
 ].reverse();
 

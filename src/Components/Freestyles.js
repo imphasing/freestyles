@@ -1236,6 +1236,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=fjH6koBoqms",
         rating: 8.5
     },
+    {
+        "title": "Mickey Factz Freestyle w/ The L.A. Leakers - Freestyle #053",
+        "url": "https://www.youtube.com/watch?v=n7pgD8IuSys",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

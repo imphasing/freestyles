@@ -1241,6 +1241,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=n7pgD8IuSys",
         rating: 8.5
     },
+    {
+        "title": "Connie Diiamond Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=7VGbTBQdozY",
+        rating: 8
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

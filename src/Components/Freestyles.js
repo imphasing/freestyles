@@ -1246,6 +1246,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=7VGbTBQdozY",
         rating: 8
     },
+    {
+        "title": "NCognita Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=SlUfq5EHyMY",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

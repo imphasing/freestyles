@@ -1251,6 +1251,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=SlUfq5EHyMY",
         rating: 8.5
     },
+    {
+        "title": "Toney Blanco & Litoothegreat Bars On I-95 V4V Freestyle",
+        "url": "https://www.youtube.com/watch?v=t4e7xxl9TiI",
+        rating: 8
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

@@ -1256,6 +1256,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=t4e7xxl9TiI",
         rating: 8
     },
+    {
+        "title": "Millyz freestyle GOES HARD 🔥🔥 Westwood",
+        "url": "https://www.youtube.com/watch?v=ED0ryQ8qcu4",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

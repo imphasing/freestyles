@@ -1271,6 +1271,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=bmvMjPiOVbg",
         rating: 8
     },
+    {
+        "title": "Sy Ari Da Kid Freestyle | OVERTIME | SWAY'S UNIVERSE",
+        "url": "https://www.youtube.com/watch?v=EvJseaFLG0U",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

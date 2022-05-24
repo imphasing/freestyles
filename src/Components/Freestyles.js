@@ -1266,6 +1266,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=QayKMNXtP2w",
         rating: 8.5
     },
+    {
+        "title": "Symba Freestyle w/ The L.A. Leakers - Freestyle #104",
+        "url": "https://www.youtube.com/watch?v=bmvMjPiOVbg",
+        rating: 8
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

@@ -1279,6 +1279,11 @@ var freestyles = [
     {
         "title": "Denzel Curry | Funk Flex | #Freestyle184",
         "url": "https://www.youtube.com/watch?v=HflUSpSlyM4",
+        rating: 8.5
+    },
+    {
+        "title": "Cyhi Gassed L.A. Leakers Freestyle Return With Bars Over 42 Dugg's "Maybach" & Jeezy's "Go Crazy"",
+        "url": "https://www.youtube.com/watch?v=MwEmFwpGOic",
         rating: 9
     },
 ].reverse();

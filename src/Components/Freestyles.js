@@ -1276,6 +1276,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=EvJseaFLG0U",
         rating: 8.5
     },
+    {
+        "title": "Denzel Curry | Funk Flex | #Freestyle184",
+        "url": "https://www.youtube.com/watch?v=HflUSpSlyM4",
+        rating: 9
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

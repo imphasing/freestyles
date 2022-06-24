@@ -1282,8 +1282,13 @@ var freestyles = [
         rating: 8.5
     },
     {
-        "title": "Cyhi Gassed L.A. Leakers Freestyle Return With Bars Over 42 Dugg's "Maybach" & Jeezy's "Go Crazy"",
+        "title": "Cyhi Gassed L.A. Leakers Freestyle Return With Bars Over 42 Dugg's 'Maybach' & Jeezy's 'Go Crazy.",
         "url": "https://www.youtube.com/watch?v=MwEmFwpGOic",
+        rating: 9
+    },
+    {
+        "title": "Joey Badass | Funk Flex | #Freestyle181",
+        "url": "https://www.youtube.com/watch?v=0qodfDLnEAc",
         rating: 9
     },
 ].reverse();

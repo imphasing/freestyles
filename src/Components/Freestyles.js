@@ -1291,6 +1291,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=0qodfDLnEAc",
         rating: 9
     },
+    {
+        "title": "Fuego Base Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=NGZmyCQQM5c",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

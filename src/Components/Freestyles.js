@@ -1311,6 +1311,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=YqOqTjcLMKk",
         rating: 8.5
     },
+    {
+        "title": "Kur Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=ReNwG84h_fA",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

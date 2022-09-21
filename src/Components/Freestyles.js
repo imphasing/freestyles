@@ -1296,9 +1296,14 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=NGZmyCQQM5c",
         rating: 8.5
     },
-        {
+    {
         "title": "Big Ooh Bars On I-95 Freestyle",
         "url": "https://www.youtube.com/watch?v=zbdYODRgNOM",
+        rating: 8.5
+    },
+    {
+        "title": "Joyner Lucas | Backwords Part 2 | Funk Flex",
+        "url": "https://www.youtube.com/watch?v=JZQeqoS4G6Y",
         rating: 8.5
     },
 ].reverse();

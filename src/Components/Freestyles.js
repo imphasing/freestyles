@@ -1306,6 +1306,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=JZQeqoS4G6Y",
         rating: 8.5
     },
+    {
+        "title": "Haddy Racks Bars On I-95 Freestyle pt 2",
+        "url": "https://www.youtube.com/watch?v=YqOqTjcLMKk",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

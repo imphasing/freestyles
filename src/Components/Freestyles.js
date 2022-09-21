@@ -1296,6 +1296,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=NGZmyCQQM5c",
         rating: 8.5
     },
+        {
+        "title": "Big Ooh Bars On I-95 Freestyle",
+        "url": "https://www.youtube.com/watch?v=zbdYODRgNOM",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

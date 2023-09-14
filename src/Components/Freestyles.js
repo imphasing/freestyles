@@ -1316,6 +1316,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=ReNwG84h_fA",
         rating: 8.5
     },
+    {
+        "title": "Tye Henney Bars On I-95 Pt 2",
+        "url": "https://www.youtube.com/watch?v=Rx8SP07kHnc",
+        rating: 9
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {

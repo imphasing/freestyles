@@ -1324,7 +1324,7 @@ var freestyles = [
     {
         "title": "Deante Hitchcock Bars On I-95 Freestyle pt 2",
         "url": "https://www.youtube.com/watch?v=xNMGVv4-VmA",
-        rating: 8.5
+        rating: 9
     },
 ].reverse();
 

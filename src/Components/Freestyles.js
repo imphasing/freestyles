@@ -1321,6 +1321,11 @@ var freestyles = [
         "url": "https://www.youtube.com/watch?v=Rx8SP07kHnc",
         rating: 9
     },
+    {
+        "title": "Deante Hitchcock Bars On I-95 Freestyle pt 2",
+        "url": "https://www.youtube.com/watch?v=xNMGVv4-VmA",
+        rating: 8.5
+    },
 ].reverse();
 
 var sortedFreestyles = freestyles.concat().sort(function (a, b) {
